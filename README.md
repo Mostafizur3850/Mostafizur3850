@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Student <br>👯 I’m looking to collaborate on Software Engineer<br>🤝 I’m looking for help with developing <br>🌱 I’m currently learning App Development with Flutter and Java <br>💬 Ask me about Something<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on Student <br>👯 I’m looking to collaborate on Software Engineer<br>🤝 I’m looking for help with developing <br>🌱 I’m currently learning Development with HTML,CSS and JavaScript, Flutter and Java <br>💬 Ask me about Something<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
